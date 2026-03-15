@@ -21,9 +21,7 @@ For me, technology is at its most compelling when it isn't just functional, but 
 ### ✦ Tech Stack (What I'm learning and using)
 
 * **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, jQuery, p5.js, Vite
-
 * **Backend & Databases:** Node.js, Express, TypeScript, Python, REST APIs, PostgreSQL, MongoDB, MySQL, PHP, Postman
-
 * **Design & Workflow:** UX/UI Design, Figma, Design Thinking, Agile (Scrum/Kanban), Git
 
 ---
