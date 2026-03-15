@@ -1,7 +1,7 @@
 # ✴︎ Desirée Strand
-### ✦ Fullstack Developer & UX/UI Designer | Stockholm, Sweden
+### ✦ Fullstack Developer & UX/UI Designer
 
-I'm a Junior Fullstack Developer and UX/UI Designer passionate about building digital products that solve real-world problems and create meaningful experiences for users.
+I'm a Junior Fullstack Developer and UX/UI Designer passionate about building digital products that solve real-world problems and create meaningful experiences for users. Based in Stockholm, Sweden.
 
 ---
 
@@ -14,17 +14,17 @@ Currently, I'm studying Fullstack Development at **Nackademin**, deepening my fr
 * **Approach:** Structured and systematic. I focus on writing clean, maintainable, and scalable code while building user-focused, accessible and sustainable solutions.
 * **Mindset:** Driven by technical challenges that require thoughtful problem-solving and continuous learning. I thrive in cross-functional teams where development happens close to the product and its users.
 
-> "For me, technology is at its most compelling when it isn't just functional, but truly valuable and appreciated by the people who use it. ✴︎"
+For me, technology is at its most compelling when it isn't just functional, but truly valuable and appreciated by the people who use it. ✴︎
 
 ---
 
 ### ✦ Tech Stack (What I'm learning and using)
 
-**Frontend** React, JavaScript (ES6+), HTML5, CSS3, jQuery, p5.js, Vite
+* **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, jQuery, p5.js, Vite
 
-**Backend & Databases** Node.js, Express, TypeScript, Python, REST APIs, PostgreSQL, MongoDB, MySQL, PHP, Postman
+* **Backend & Databases:** Node.js, Express, TypeScript, Python, REST APIs, PostgreSQL, MongoDB, MySQL, PHP, Postman
 
-**Design & Workflow** UX/UI Design, Figma, Design Thinking, Agile (Scrum/Kanban), Git
+* **Design & Workflow:** UX/UI Design, Figma, Design Thinking, Agile (Scrum/Kanban), Git
 
 ---
 
