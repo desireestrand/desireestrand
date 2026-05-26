@@ -28,7 +28,7 @@ I'm currently seeking an **internship (LIA)** opportunity from **November 2026 t
 ---
 
 ### ✦ Contact & Links
-* [LinkedIn](www.linkedin.com/in/desireestrand)
+* [LinkedIn](https://www.linkedin.com/in/desireestrand)
 * [E-mail](mailto:desireestrxnd@gmail.com)
 * [Portfolio](https://desireestrand.github.io/)
 
