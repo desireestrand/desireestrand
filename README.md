@@ -22,27 +22,7 @@ As a curious and analytical person, I'm motivated by technical challenges that r
 
 ---
 
-### ✦ Internship (LIA) 2026-2027
-I'm currently seeking an **internship (LIA)** opportunity from **November 2026 to May 2027**, where I can apply my skills in Fullstack Development, gain hands-on experience and continue to grow as a developer. I would love to hear from you!
-
----
-
 ### ✦ Contact & Links
 * [LinkedIn](https://www.linkedin.com/in/desireestrand)
 * [E-mail](mailto:desireestrxnd@gmail.com)
 * [Portfolio](https://desireestrand.github.io/)
-
-<!--
-**desireestrand/desireestrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
